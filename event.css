@@ -10,7 +10,7 @@
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
-  background: darkorange;
+  background: #90E0EF;
   margin: 0;
   padding: 0px;
 }
@@ -42,7 +42,7 @@ button:hover { background: darkblue;
 }
 .admin,.user{
    flex: 1;
-   background-color: #90E0EF;              
+   background-color: #03254b;              
    padding: 20px;
    border-radius: 10px;
 }
